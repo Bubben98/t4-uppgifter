@@ -1,0 +1,18 @@
+﻿@model List<demo1.Models.Product>
+@{
+    //Layout = null;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Products";
+
+}
+        
+        <h2>Products</h2>
+        <ul class="list-group">
+            @foreach (demo1.Models.Product p in Model)
+            {
+                <li>
+                    @p.Name (@p.Price kr)
+                </li>
+            }
+        </ul>
+

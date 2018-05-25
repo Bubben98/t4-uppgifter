@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>test XHR</title>
+    <script>
+        function dosomethingcool() {
+            var MyXHR = new XMLHttpRequest();
+
+            MyXHR.onreadystatechange = function () {
+                if (this.readyState == 4 && this.status == 200) {
+                    document.getElementById("anka").innerHTML = this.responseText;
+                };
+
+            };
+            MyXHR.open("GET", "info.txt", true);
+            MyXHR.send();
+
+        }
+    </script>
+</head>
+<body>
+    <h2>vi lär känna XHR objektet</h2>
+    <p>XHR = XML Http Request</p>
+    <hr/>
+    <div id="anka">
+        <button type="button" onclick="dosomethingcool()">Play</button>
+    </div>
+</body>
+</html>

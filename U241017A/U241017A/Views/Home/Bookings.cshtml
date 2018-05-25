@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.Title = "Bookings";
+}
+
+<h2>Bookings</h2>
+
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>@item.Name ,  @item.Date , @item.Event , @item.Location , new {id=item.Id}</li>
+    }
+</ul>

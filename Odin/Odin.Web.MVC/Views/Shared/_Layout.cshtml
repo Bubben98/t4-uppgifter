@@ -1,0 +1,31 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/main.css" rel="stylesheet" />
+    <title>_Layout</title>
+</head>
+<body>
+    <div>
+        @RenderSection("Header", false)
+        <hr />
+        @RenderBody()
+        <hr />
+        @*@RenderSection("footer", false)*@ 
+        @if (IsSectionDefined("footer"))
+        {
+            @RenderSection("footer")
+        }
+        else
+        {
+            <h4>no footer, no copyright</h4>
+        }
+    </div>
+</body>
+</html>

@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\T4 uppgifter\U13091701\U\U\obj\Debug\U.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\T4 uppgifter\U13091701\U\U\obj\Debug\U.Form1.resources
+C:\Users\Admin\Documents\T4 uppgifter\U13091701\U\U\obj\Debug\U.Properties.Resources.resources
+C:\Users\Admin\Documents\T4 uppgifter\U13091701\U\U\obj\Debug\U.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\T4 uppgifter\U13091701\U\U\obj\Debug\U.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\T4 uppgifter\U13091701\U\U\bin\Debug\U.exe.config
+C:\Users\Admin\Documents\T4 uppgifter\U13091701\U\U\bin\Debug\U.exe
+C:\Users\Admin\Documents\T4 uppgifter\U13091701\U\U\bin\Debug\U.pdb
+C:\Users\Admin\Documents\T4 uppgifter\U13091701\U\U\obj\Debug\U.exe
+C:\Users\Admin\Documents\T4 uppgifter\U13091701\U\U\obj\Debug\U.pdb

@@ -1,0 +1,26 @@
+﻿@model Odin.Web.MVC.Models.invite
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Thanks</title>
+</head>
+<body>
+    <div> 
+        <p>thank you, @Model.Name</p>
+        @if (Model.Attending == true)
+        {
+            @:yay, cool
+        }
+        else
+        {
+            @:Sorry, more beer for us
+        }
+    </div>
+</body>
+</html>

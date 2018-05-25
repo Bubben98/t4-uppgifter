@@ -1,0 +1,75 @@
+﻿
+@model List<_061117.Models.Class1>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Mina produkter</h2>
+
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>
+            <strong>Destination:</strong> @item.Name<br />
+            <strong>Typ:</strong> @item.Event<br />
+            <strong>Datum:</strong> @item.Time<br />
+            <strong>Plats:</strong> @item.Place<br /><br />
+        </li>
+    }
+</ul>
+
+@section Scripts{
+    <script>
+
+        var model = {
+            Class1: ko.observableArray(),
+            addform: {
+                name: ko.observable(""),
+                event: ko.observable("")
+            }
+        };
+
+        function sendAjaxRequestHelper(httpMethod, callback, url, postData) {
+            $.ajax("/api/product" + (url ? "/" + url : ""),
+                {
+                    type: httpMethod, success: callback, data: postData
+                });
+        };
+
+        function getAllItems() {
+            sendAjaxRequestHelper("GET", function (data) {
+                model.Class1.removeAll();
+                for (var i = 0; i < data.length; i++) {
+                    model.Class1.push(data[i]);
+                }
+            });
+        };
+
+
+        $(document).ready(function () {
+            getAllItems();
+            ko.applyBindings(model); //här sker magin!
+        });
+
+    </script>
+
+}
+
+@section Body{
+    <table>
+        <thead><tr><th>ID</th><th>Name</th><th>Event</th></tr></thead>
+        <tbody data-bind="foreach: model.Class1">
+               
+            <tr>
+                <td data-bind="text: ProductID"></td>
+                <td data-bind="text: Name"></td>
+                <td data-bind="text: Event"></td>
+                <td>
+                    <button data-bind="click: removeItem">Remove</button>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <hr />
+}
+

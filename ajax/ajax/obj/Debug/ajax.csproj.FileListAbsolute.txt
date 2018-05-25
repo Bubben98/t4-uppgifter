@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2017\Projects\ajax\ajax\bin\ajax.dll.config
+c:\users\admin\documents\visual studio 2017\Projects\ajax\ajax\bin\ajax.dll
+c:\users\admin\documents\visual studio 2017\Projects\ajax\ajax\bin\ajax.pdb
+c:\users\admin\documents\visual studio 2017\Projects\ajax\ajax\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\admin\documents\visual studio 2017\Projects\ajax\ajax\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\admin\documents\visual studio 2017\Projects\ajax\ajax\obj\Debug\ajax.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\ajax\ajax\obj\Debug\ajax.csproj.CoreCompileInputs.cache
+c:\users\admin\documents\visual studio 2017\Projects\ajax\ajax\obj\Debug\ajax.dll
+c:\users\admin\documents\visual studio 2017\Projects\ajax\ajax\obj\Debug\ajax.pdb

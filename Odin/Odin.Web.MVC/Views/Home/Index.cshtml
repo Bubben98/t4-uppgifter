@@ -1,0 +1,14 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+    <div> 
+        <h1>hello @ViewBag.Name</h1>
+        <hr />
+        <h2>we're ahving a party</h2>
+        <p>you are invited pls @Html.ActionLink("RSVP", "RSVP")</p>
+    </div>
+
+@section footer {
+        <p>(c) invite system bv</p>
+}

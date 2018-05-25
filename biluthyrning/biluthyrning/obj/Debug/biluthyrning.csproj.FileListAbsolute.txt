@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2017\Projects\biluthyrning\biluthyrning\bin\Debug\biluthyrning.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\biluthyrning\biluthyrning\bin\Debug\biluthyrning.exe
+c:\users\admin\documents\visual studio 2017\Projects\biluthyrning\biluthyrning\bin\Debug\biluthyrning.pdb
+c:\users\admin\documents\visual studio 2017\Projects\biluthyrning\biluthyrning\obj\Debug\biluthyrning.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\biluthyrning\biluthyrning\obj\Debug\biluthyrning.Form1.resources
+c:\users\admin\documents\visual studio 2017\Projects\biluthyrning\biluthyrning\obj\Debug\biluthyrning.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2017\Projects\biluthyrning\biluthyrning\obj\Debug\biluthyrning.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2017\Projects\biluthyrning\biluthyrning\obj\Debug\biluthyrning.csproj.CoreCompileInputs.cache
+c:\users\admin\documents\visual studio 2017\Projects\biluthyrning\biluthyrning\obj\Debug\biluthyrning.exe
+c:\users\admin\documents\visual studio 2017\Projects\biluthyrning\biluthyrning\obj\Debug\biluthyrning.pdb

@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\1011172\1011172\bin\Debug\1011172.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\1011172\1011172\bin\Debug\1011172.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\1011172\1011172\bin\Debug\1011172.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\1011172\1011172\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\1011172\1011172\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\1011172\1011172\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\1011172\1011172\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\1011172\1011172\obj\Debug\1011172.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\1011172\1011172\obj\Debug\_1011172.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\1011172\1011172\obj\Debug\_1011172.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\1011172\1011172\obj\Debug\1011172.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\1011172\1011172\obj\Debug\1011172.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\1011172\1011172\obj\Debug\1011172.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\1011172\1011172\obj\Debug\1011172.pdb

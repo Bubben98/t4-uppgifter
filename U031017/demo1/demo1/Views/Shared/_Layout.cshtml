@@ -1,0 +1,54 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script src="~/Scripts/bootstrap.js"></script>
+    <script src="~/Scripts/jquery-1.9.1.js"></script>
+    <link href="~/Content/bootstrap-theme.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    
+</head>
+
+
+<body>
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand">My Site</a>
+            </div>
+
+            <ul class="nav navbar-nav">
+                <li>
+                    @Html.ActionLink("Home", "Index")
+                </li>
+                <li class="">
+                    @Html.ActionLink("About", "About")
+                </li>
+                <li>
+                    @Html.ActionLink("Contact", "Contact")
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <script>
+        console.log("Page loaded: " + document.URL + " at " + Date());
+        document.write("Page loaded: " + document.URL + " at " + Date());
+    </script>
+    <div class="text-center"> 
+        @RenderBody()
+    </div>
+    <footer style="background-color: black;" class="container-fluid text-center">
+        <p style="color:white;">Copyright 2017 Team T4</p>
+    </footer>
+</body>
+</html>

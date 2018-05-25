@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2017\Projects\API290118\API290118\bin\API290118.dll.config
+c:\users\admin\documents\visual studio 2017\Projects\API290118\API290118\bin\API290118.dll
+c:\users\admin\documents\visual studio 2017\Projects\API290118\API290118\bin\API290118.pdb
+c:\users\admin\documents\visual studio 2017\Projects\API290118\API290118\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\admin\documents\visual studio 2017\Projects\API290118\API290118\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\admin\documents\visual studio 2017\Projects\API290118\API290118\obj\Debug\API290118.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\API290118\API290118\obj\Debug\API290118.csproj.CoreCompileInputs.cache
+c:\users\admin\documents\visual studio 2017\Projects\API290118\API290118\obj\Debug\API290118.dll
+c:\users\admin\documents\visual studio 2017\Projects\API290118\API290118\obj\Debug\API290118.pdb

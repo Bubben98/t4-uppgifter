@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\U241017A\U241017A.DATA\bin\Debug\netstandard1.4\U241017A.DATA.deps.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\U241017A\U241017A.DATA\bin\Debug\netstandard1.4\U241017A.DATA.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\U241017A\U241017A.DATA\bin\Debug\netstandard1.4\U241017A.DATA.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\U241017A\U241017A.DATA\obj\Debug\netstandard1.4\U241017A.DATA.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\U241017A\U241017A.DATA\obj\Debug\netstandard1.4\U241017A.DATA.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\U241017A\U241017A.DATA\obj\Debug\netstandard1.4\U241017A.DATA.AssemblyInfo.cs
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\U241017A\U241017A.DATA\obj\Debug\netstandard1.4\U241017A.DATA.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\U241017A\U241017A.DATA\obj\Debug\netstandard1.4\U241017A.DATA.pdb

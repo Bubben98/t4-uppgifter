@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Demo101117\Demo101117\bin\Debug\Demo101117.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Demo101117\Demo101117\bin\Debug\Demo101117.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Demo101117\Demo101117\bin\Debug\Demo101117.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Demo101117\Demo101117\obj\Debug\Demo101117.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Demo101117\Demo101117\obj\Debug\Demo101117.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Demo101117\Demo101117\obj\Debug\Demo101117.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Demo101117\Demo101117\obj\Debug\Demo101117.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Demo101117\Demo101117\obj\Debug\Demo101117.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Demo101117\Demo101117\obj\Debug\Demo101117.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Demo101117\Demo101117\obj\Debug\Demo101117.pdb

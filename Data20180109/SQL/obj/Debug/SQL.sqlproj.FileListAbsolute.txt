@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Data20180109\SQL\bin\Debug\SQL.dacpac
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Data20180109\SQL\bin\Debug\SQL.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Data20180109\SQL\bin\Debug\SQL.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Data20180109\SQL\obj\Debug\SQL.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Data20180109\SQL\obj\Debug\SQL.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Data20180109\SQL\obj\Debug\Model.xml
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Data20180109\SQL\obj\Debug\refactor.xml
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Data20180109\SQL\obj\Debug\postdeploy.sql
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Data20180109\SQL\obj\Debug\predeploy.sql

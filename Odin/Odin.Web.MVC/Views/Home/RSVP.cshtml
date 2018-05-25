@@ -1,0 +1,18 @@
+﻿@model Odin.Web.MVC.Models.invite
+    <div> 
+        <h1>RSVP</h1>
+        <hr />
+        @using (Html.BeginForm())
+        {
+            @Html.ValidationSummary()
+            <p>Name: @Html.TextBoxFor(x => x.Name)</p>
+            <p>Phone: @Html.TextBox("Phone")</p>
+            <p>Attending: @Html.DropDownListFor(x => x.Attending, new[] {
+                     new SelectListItem() { Text="yes, i will come", Value=bool.TrueString },
+                     new SelectListItem() { Text="No, i cant come", Value=bool.FalseString } }
+                     , "Select")</p>
+            <input type="submit" value="Send RSVP" />
+        }
+    </div>
+@Html.Partial("MyPartial")
+

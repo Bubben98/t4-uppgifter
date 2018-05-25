@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+    <h1>Mapping is cool</h1>
+    <div id="mymap" style="width: 100%; height: 400px;"></div>
+
+    <script>
+        function DoMap() {
+            var mapProps = { center: new google.maps.LatLng(59.216667, 18.150000), zoom: 14, draggable: false };
+
+
+                var map = new google.maps.Map(document.getElementById("mymap"), mapProps);
+
+                var marker = new google.maps.Marker({
+                    position: new google.maps.LatLng(59.216667, 18.150000),
+                    animation: google.maps.Animation.BOUNCE,
+                    
+                });
+                marker.setMap(map);
+                };
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDa3ZNYpwDOFTYCRTutqBIhlAkaTNdUvTg&callback=DoMap"></script>
+</body>
+</html>

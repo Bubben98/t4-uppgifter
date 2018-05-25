@@ -1,0 +1,49 @@
+﻿@model IEnumerable<knockout24JAN.Models.wishList>
+@{
+    ViewBag.Title = "Index";
+
+    var serialData = new System.Web.Script.Serialization.JavaScriptSerializer().Serialize(Model);
+}
+
+<h2>Index</h2>
+
+@Model.Count()
+
+<div>
+    <p>du önskar dig <span data-bind="text: wishes().length">x</span> saker</p>
+</div>
+<div>
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody data-bind="foreach: wishes">
+            <tr>
+                <td><input data-bind="value: Title" /></td>
+                <td><input data-bind="value: Price" /></td>
+                <td><a href="#" data-bind="click: $root.removeWish">Remove</a></td>
+            </tr>
+        </tbody>
+    </table>
+    <button data-bind="click: addWish">Add wish</button>
+</div>
+<script>
+    
+
+    var ViewModel = function(data){
+        this.wishes = ko.observableArray(data);
+        this.addWish = function () {
+            this.wishes.push({ Title: "", Price: "" });
+        };
+        this.removeWish = function (wish) {
+            this.wishes.remove(wish);
+        };
+    };
+
+    //ko.applyBindings(new ViewModel([{Title: "aa", Price: 100}]));
+    @*ko.applyBindings(new ViewModel(@Model));*@
+    ko.applyBindings(new ViewModel(@Html.Raw(serialData)));
+</script>

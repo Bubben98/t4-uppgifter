@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Data20180109\domain\bin\Debug\netstandard2.0\domain.deps.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Data20180109\domain\bin\Debug\netstandard2.0\domain.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Data20180109\domain\bin\Debug\netstandard2.0\domain.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Data20180109\domain\obj\Debug\netstandard2.0\domain.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Data20180109\domain\obj\Debug\netstandard2.0\domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Data20180109\domain\obj\Debug\netstandard2.0\domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Data20180109\domain\obj\Debug\netstandard2.0\domain.AssemblyInfo.cs
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Data20180109\domain\obj\Debug\netstandard2.0\domain.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Data20180109\domain\obj\Debug\netstandard2.0\domain.pdb
